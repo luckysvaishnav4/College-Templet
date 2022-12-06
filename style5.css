@@ -1,0 +1,151 @@
+body{
+	background:#2374;
+}
+.one{
+	border: 2px solid royalblue;
+	background:white;
+	margin-top: -8px;
+}
+.btn1{
+	top: -2px;
+	left: 4px;
+	padding:5px;
+	position: relative;
+	height: 28px;
+	color:red;
+	background:pink;
+}
+input{
+	height: 30px;
+	width: 170px;
+	top: -2px;
+	left: 10px;
+	position: relative;
+	padding: 5px;
+	margin-right: -8px;
+	border-radius: 7px;
+	font-family: cursive;
+	color: black;
+}
+i{
+	position: relative;
+}
+.one ul{
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+}
+.one ul li{
+	display: inline-block;
+}
+.one a{
+	text-decoration: none;
+	font-family: cursive;
+	font-size: 19px;
+	color:cyan;
+	padding: 4px;
+	border-radius: 4px;
+	border-right: 2px solid slateblue;
+	display: block;
+}
+.one ul li ul{
+	display: none;
+} 
+.one li li{
+	display: block;
+}
+.one li:hover ul{
+	display: block;
+	position: absolute;
+}
+a:hover{
+	color: deeppink;
+}
+.pic img{
+	height: 400px;
+	width: 1246px;
+	margin-right:9px;
+	margin-top:9px;
+}
+.pics img{
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	margin: 10px;
+	margin-left:50px;
+}
+.pics1 img{
+	height: 200px;
+	width: 200px;
+	margin-top:-293px;
+	margin-left:300px;
+}
+.student img{
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+
+}
+.student1 img{
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	margin-left: 280px;
+	margin-top: -298px;
+}
+.photo1{
+	margin-left: 300px;
+}
+.photos img{
+	height: 160px;
+	width: 300px;
+	margin-right:55px;
+}
+.pera{
+	text-align:left;
+	display: inline-block;
+	margin-left: 100px;
+	padding: 5px;
+	background: lightyellow;
+	border-radius: 7px;
+	font-family:calibri;
+	cursor:crosshair;
+}
+.pera:hover{
+	color: darkred;
+	background:pink;
+}
+.footer{
+	background: black;
+	display: flex;
+	border: 1px solid whitesmoke;
+}
+.footer.form1{
+	width: 50%;
+	padding: 25px;
+	text-align: center;
+}
+.footer.foot{
+	width: 40%;
+}
+.foot{
+	margin-left: 580px;
+	border:1px solid whitesmoke;
+}
+.foot a{
+	color: yellow;
+	text-decoration: none;
+	padding: 1px;
+	margin-left:11px
+}
+.btn2{
+	color:black;
+	background: cyan;
+	font-family: fantasy;
+	font-size: 15px;
+	border-radius: 5px;
+}
+.btn2:hover{
+	color: deeppink;
+	background:yellow;
+}
